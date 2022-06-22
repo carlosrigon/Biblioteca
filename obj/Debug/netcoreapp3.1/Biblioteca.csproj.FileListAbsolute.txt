@@ -51,3 +51,8 @@ C:\Users\Carlos\Curso Técnico\UC07\Biblioteca\obj\Debug\netcoreapp3.1\staticweb
 C:\Users\Carlos\Curso Técnico\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
 C:\Users\Carlos\Curso Técnico\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
 C:\Users\Carlos\Curso Técnico\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\Carlos\Curso Técnico\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+C:\Users\Carlos\Curso Técnico\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Edicao.cshtml.g.cs
+C:\Users\Carlos\Curso Técnico\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listagem.cshtml.g.cs
+C:\Users\Carlos\Curso Técnico\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Excluir.cshtml.g.cs
+C:\Users\Carlos\Curso Técnico\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\needAdmin.cshtml.g.cs
